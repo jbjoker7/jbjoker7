@@ -5,7 +5,7 @@
 - 📫 How to reach me ... dont
 
 <p>
-this is a paragraph. <b> This is bolded text </b>
+this is a paragraph. <b> This is bolded text </b> <i> This is italic text </i>
 </p>
 <!---
 jbjoker7/jbjoker7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
